@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "zyy",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "tag": "recipe_enhancements:stones"
+    },
+    "y":
+    {
+      "item": "minecraft:redstone"
+    },
+    "z":
+    {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result":
+  {
+    "item": "minecraft:observer",
+    "count": 1
+  }
+}

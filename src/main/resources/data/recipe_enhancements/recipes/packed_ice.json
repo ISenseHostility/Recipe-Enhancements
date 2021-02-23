@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "x"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:blue_ice"
+    }
+  },
+  "result":
+  {
+    "item": "minecraft:packed_ice",
+    "count": 9
+  }
+}

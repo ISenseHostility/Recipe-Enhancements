@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "minecraft:sweet_berries"
+  },
+  "result": "minecraft:red_dye",
+  "experience": 0.1,
+  "cookingtime": 100
+}

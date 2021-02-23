@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "yzy",
+    "qqq"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:brown_dye"
+    },
+    "y":
+    {
+      "item": "minecraft:blue_dye"
+    },
+    "z":
+    {
+      "item": "minecraft:zombie_head"
+    },
+    "q":
+    {
+      "item": "minecraft:orange_dye"
+    }
+  },
+  "result":
+  {
+    "item": "minecraft:player_head",
+    "count": 1
+  }
+}

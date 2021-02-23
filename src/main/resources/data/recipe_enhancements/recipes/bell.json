@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    " y ",
+    "yzy"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:stick"
+    },
+    "y":
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    "z":
+    {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "result":
+  {
+    "item": "minecraft:bell",
+    "count": 1
+  }
+}

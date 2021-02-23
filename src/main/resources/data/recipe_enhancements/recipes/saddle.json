@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xyx",
+    "z z"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:leather"
+    },
+    "y":
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    "z":
+    {
+      "item": "minecraft:tripwire_hook"
+    }
+  },
+  "result":
+  {
+    "item": "minecraft:saddle"
+  }
+}

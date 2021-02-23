@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "x"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:soul_soil"
+    }
+  },
+  "result":
+  {
+    "item": "minecraft:soul_sand",
+    "count": 4
+  }
+}

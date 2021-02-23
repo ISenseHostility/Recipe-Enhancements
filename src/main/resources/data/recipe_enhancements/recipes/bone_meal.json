@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "x"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:skeleton_skull"
+    }
+  },
+  "result":
+  {
+    "item": "minecraft:bone_meal",
+    "count": 9
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "x"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:dead_horn_coral_block"
+    }
+  },
+  "result":
+  {
+    "item": "minecraft:dead_horn_coral",
+    "count": 4
+  }
+}
