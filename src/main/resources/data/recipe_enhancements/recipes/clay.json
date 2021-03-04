@@ -8,12 +8,12 @@
   {
     "x":
     {
-      "item": "minecraft:glowstone"
+      "item": "minecraft:clay_ball"
     }
   },
   "result":
   {
-    "item": "minecraft:glowstone_dust",
+    "item": "minecraft:clay",
     "count": 4
   }
 }
