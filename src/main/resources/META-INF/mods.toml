@@ -25,6 +25,6 @@ issueTrackerURL="https://github.com/ISenseHostility/Recipe-Enhancements/issues"
 [[dependencies.recipe_enhancements]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.16.5)"
+    versionRange="[1.16.5]"
     ordering="NONE"
     side="BOTH"
